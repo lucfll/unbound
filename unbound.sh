@@ -1,3 +1,4 @@
+#https://chatgpt.com/c/676beb90-5ddc-8003-8f4d-66621bf166b3
 #!/bin/bash
 
 # Atualizando o sistema
